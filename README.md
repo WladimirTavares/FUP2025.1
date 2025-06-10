@@ -22,5 +22,8 @@
 | 4     | Desvio Condicional | [Desvio Condicional](Aula_3___Desvio_Condicional.pdf) |
 | 5     | Inspeção de listas | [Inspeção de listas](Aula_4___Inspecção_de_Listas.pdf) | [Inspeção de Listas](https://www.youtube.com/watch?v=wRxQsFe4cfk) |
 | 6     | Manipulação de listas | [Manipulação de listas](Aula_5___Manipulação_de_listas.pdf ) | [Manipulação de Listas](https://www.youtube.com/watch?v=q7vZwXr9Ipg) | 
-| 7     | Trabalhando com dois dedos | [Trabalhando com dois dedos](Aula_6___Trabalhando_com_dois_dedos.pdf) | [Trabalhando com dois dedos](https://www.youtube.com/watch?v=wTNe_YhJfRM)
+| 7     | Trabalhando com dois dedos | [Trabalhando com dois dedos](Aula_6___Trabalhando_com_dois_dedos.pdf) | [Trabalhando com dois dedos](https://www.youtube.com/watch?v=wTNe_YhJfRM) |
+| 8     |  while - inspecionando listas  | [While - inspecionando manualmente](Aula_7___While_Trabalhando_com_dedo_manualmente.pdf) | [Inspecionando Manualmente](https://www.youtube.com/watch?v=eBBIyuPSKNk)|
+| 9     | while - manipulando listas     | [while - manipulando manualmente](Aula_8___Manipulando_dois_dedos_manualmente__while_.pdf) | [while - manipulando manulamente](https://www.youtube.com/watch?v=sSwq1R0RC0w) |
+| 10    | Hierarquia de Controle  | [Hierarquia de Controle](Aula_9___Hierarquia_de_Controle) | [Hierarquia de Controle](https://www.youtube.com/watch?v=gERtFOv4-9s) |
 
