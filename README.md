@@ -26,4 +26,8 @@
 | 8     |  while - inspecionando listas  | [While - inspecionando manualmente](Aula_7___While_Trabalhando_com_dedo_manualmente.pdf) | [Inspecionando Manualmente](https://www.youtube.com/watch?v=eBBIyuPSKNk)|
 | 9     | while - manipulando listas     | [while - manipulando manualmente](Aula_8___Manipulando_dois_dedos_manualmente__while_.pdf) | [while - manipulando manulamente](https://www.youtube.com/watch?v=sSwq1R0RC0w) |
 | 10    | Hierarquia de Controle  | [Hierarquia de Controle](Aula_9___Hierarquia_de_Controle) | [Hierarquia de Controle](https://www.youtube.com/watch?v=gERtFOv4-9s) |
+| 11    | Programando com caixinas | [Programando com caixinhas](Aula_10___Programando_com_caixinhas.pdf) | |
+| 12   | Programando com inteiros | [Programando com inteiros](Aula_11___Programando_com_números_inteiros.pdf) | | 
+
+
 
